@@ -7,7 +7,7 @@ This site provides basic function of web application for users to sign in, searc
 ## Authors
 
 * [dhoang1csuf](https://github.com/dhoang1csuf) - Daniel Hoang
-* [gerardco](https://github.com/gerardco) - Gerard 
+* [gerardco](https://github.com/gerardco) - Gerard Cortes
 * [jasonhan0426](https://github.com/jasonhan0426) - Jason Han
 * [philipchungtech](https://github.com/philipchungtech) - Philip Chung
 * [shelleypham](https://github.com/shelleypham) - Shelley Pham
@@ -25,7 +25,6 @@ What things you need to install to run the software:
 ```
 $ ember install emberfire
 $ ember install torii
-$ ember install ember-simple-auth
 ```
 
 ## Deployment
@@ -46,4 +45,3 @@ the data store in deployd can be found here
 
 * [emberfire](https://github.com/firebase/emberfire)
 * [torii](https://github.com/Vestorly/torii)
-* [ember-simple-auth](https://github.com/simplabs/ember-simple-auth)
