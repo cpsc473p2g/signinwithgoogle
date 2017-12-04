@@ -18,7 +18,7 @@ This site provides basic function of web application for users to sign in, searc
 * `cd <repository>`
 * `npm install`
 
-### Build With Blugins
+### Build With Plugins
 
 What things you need to install to run the software:
 
