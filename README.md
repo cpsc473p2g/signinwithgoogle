@@ -35,9 +35,13 @@ $ ember serve
 
 once loaded, open browser and open up a page with link: http://localhost:4200/
 
-the data store in deployd can be found here
+The first thing you will see is a page like this where you can login at the top right corner and do a search of recipe at the bottom
 <br>
-<img height="400" src="https://github.com/473-bookbrag/documentation/blob/master/documentation/Screen%20Shot%202017-10-16%20at%207.35.09%20PM.png">
+<img height="400" src="https://github.com/cpsc473p2g/documentation/blob/master/home.PNG">
+<br>
+Once you are login, notice at top left corner there is an extra "My Favorite Recipes" button
+<br>
+<img height="100" src="https://github.com/cpsc473p2g/documentation/blob/master/favorite.PNG">
 <br>
 
 
